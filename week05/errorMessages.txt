@@ -1,0 +1,43 @@
+0 row(s) affected
+
+Error Code: 1048. Column 'dept_name' cannot be null
+
+0 row(s) affected
+
+Error Code: 1048. Column 'dept_name' cannot be null
+
+0 row(s) affected
+
+Error Code: 1048. Column 'dept_name' cannot be null
+
+0 row(s) affected
+
+Error Code: 1048. Column 'dept_name' cannot be null
+
+0 row(s) affected
+
+Error Code: 1048. Column 'dept_name' cannot be null
+
+0 row(s) affected
+
+Error Code: 1048. Column 'dept_name' cannot be null
+
+Error Code: 3819. Check constraint 'chk_credit_units' is violated.
+
+Error Code: 3819. Check constraint 'chk_credit_units' is violated.
+
+Error Code: 1452. Cannot add or update a child row: a foreign key constraint fails (`sen307_11728`.`student`, CONSTRAINT `student_ibfk_1` FOREIGN KEY (`dept_id`) REFERENCES `department` (`dept_id`))
+
+Error Code: 1265. Data truncated for column 'gender' at row 1
+
+1 row(s) returned
+
+1 row(s) returned
+
+1 row(s) returned
+
+1 row(s) affected
+
+Error Code: 1062. Duplicate entry 'Computer Science' for key 'department.dept_name'
+
+Error Code: 1062. Duplicate entry 'Computer Science' for key 'department.dept_name'
